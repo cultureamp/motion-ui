@@ -3,7 +3,7 @@ kind: Component
 metadata:
   name: motion-ui
   description: >
-    Forked Repo of Motion UI
+    Forked Repository of Motion UI for animation styles
   tags:
     - users-na
     - camp-foundations
