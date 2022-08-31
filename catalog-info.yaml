@@ -15,3 +15,4 @@ metadata:
 spec:
   type: library
   owner: kaizen-design-system
+  lifecycle: production
