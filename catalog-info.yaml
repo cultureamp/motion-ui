@@ -1,0 +1,17 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: motion-ui
+  description: >
+    Fork of the motion-ui library that doesn't have a jquery dependency. Deprecated and intended to be deleted in the near future.
+  tags:
+    - users-na
+    - camp-foundations
+    - data-none
+  annotations:
+    github.com/project-slug: cultureamp/motion-ui
+    github.com/team-slug: cultureamp/kaizen-design-system
+    buildkite.com/project-slug: culture-amp/kaizen-design-system
+spec:
+  type: library
+  owner: kaizen-design-system
